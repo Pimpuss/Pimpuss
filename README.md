@@ -2,12 +2,11 @@
   <img width="100%" height="150px" src="./assets/baniere.png" alt="baniere" />
 </h1>
 
-<div align="center">
 ## Hello, I'm Milhan VERSCHELLE  👋
 
 <p>-💼 En formation à la Wild Code School spécialité JavaScript</p>
   
-</div>
+
 
 <div align="center">
   <a href="https://github.com/Pimpuss">

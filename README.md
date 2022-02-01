@@ -4,7 +4,7 @@
 
 ## Hello, I'm Milhan VERSCHELLE  👋
 
-<p>💼 En formation à la Wild Code School spécialité JavaScript</p>
+<p>-💼 En formation à la Wild Code School spécialité JavaScript</p>
 
 <div align="center">
   <a href="https://github.com/Pimpuss">
@@ -13,21 +13,29 @@
 </div >  
  
 
+<div align="center">
+
 ## Langages 💻
 
-<div>
-<img width="25px" src="./assets/html5.svg" alt="HTML5">
-<img width="25px" src="./assets/css3.svg" alt="CSS3">
-<img width="25px" src="./assets/javascript.svg" alt="Javascript">
-<img width="25px" src="./assets/react.svg" alt="react">
-<img width="25px" src="./assets/nodedotjs.svg" alt="node">
-<img width="25px" src="./assets/git.svg" alt="git">
-<img width="25px" src="./assets/github.svg" alt="gihub">
-<img width="25px" src="./assets/mysql.svg" alt="mysql">
-<img width="25px" src="./assets/express.svg" alt="express">
+  <div>
+  <img width="25px" src="./assets/html5.svg" alt="HTML5">
+  <img width="25px" src="./assets/css3.svg" alt="CSS3">
+  <img width="25px" src="./assets/javascript.svg" alt="Javascript">
+  <img width="25px" src="./assets/react.svg" alt="react">
+  <img width="25px" src="./assets/nodedotjs.svg" alt="node">
+  <img width="25px" src="./assets/git.svg" alt="git">
+  <img width="25px" src="./assets/github.svg" alt="gihub">
+  <img width="25px" src="./assets/mysql.svg" alt="mysql">
+  <img width="25px" src="./assets/express.svg" alt="express">
+  </div>
+
 </div>
+
+<div align="center">
 
 ## Contact 📬
 
+
 <a href="mailto:milhan.verschelle@gmail.com"><img width="25px" src="./assets/gmail.svg" alt="gmail"></img></a>
 <a href="https://www.linkedin.com/in/milhan-verschelle-049210177/"><img width="25px" src="./assets/linkedin.svg" alt="linkedin"></img></a>
+</div>

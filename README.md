@@ -63,26 +63,21 @@
   
   ## 📊 Statistiques Github (Développer pour afficher)
   
- <details> 
- <summary><b>💻 GitHub Profile Stats</b></summary>
+ <b>💻 Statistiques du profil GitHub</b>
     <br/>
     <p align="center">
-      <a href="https://github.com/Pimpuss"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Pimpuss&show_icons=true&locale=fr&theme=tokyonight" alt="Pimpuss" height="192px"/></a>
+      <a href="https://github.com/Pimpuss"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Pimpuss&show_icons=true&locale=fr&theme=tokyonight" alt="Pimpuss" height="160em"/></a>
     </p>
     <p  align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pimpuss&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Pimpuss" height="192px"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pimpuss&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Pimpuss" height="150em"/>
     </p>
-    <br/>
-    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-    </p>
-</details>
   
+   
   <details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <summary><b>⚡ Activité récente</b></summary>
   <br/>
-   <a href="https://github.com/Pimpuss"><img alt="Pimpuss's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Pimpuss&custom_title=Pimpuss's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Pimpuss"><img alt="Pimpuss's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Pimpuss&custom_title=Activite%20de%20Pimpuss&theme=react-dark" /></a>
   <br/>
-
 </details>
 
 <br/>

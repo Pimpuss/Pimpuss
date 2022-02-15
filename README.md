@@ -1,7 +1,7 @@
 <img width="100%" height="150px" src="./assets/baniere.png" alt="baniere" />
 
 
-<h1> Hello, I'm Milhan VERSCHELLE <img width="35" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/></h1>
+<h1> Hello, Je suis Milhan VERSCHELLE <img width="35" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/></h1>
 
 ## 💼 En formation à la Wild Code School spécialité JavaScript, Reat.
 

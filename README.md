@@ -3,7 +3,7 @@
 
 <h1> Hello, Je suis Milhan VERSCHELLE <img width="35" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/></h1>
 
-## 💼 En formation à la Wild Code School spécialité JavaScript, React.
+## 💼 Sorti de formation à la Wild Code School spécialité JavaScript, React.
 
 <p>J'aime coder, concevoir, innover et expérimenter. Je suis une personne enthousiaste et sociable qui aime relever de nouveaux défis et acquérir de nouvelles compétences. J'aime rencontrer de nouvelles personnes, échanger des idées et diffuser des connaissances et de la positivité.</p>
 <br>

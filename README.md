@@ -73,13 +73,6 @@
     </p>
   
    
-  <details>
-  <summary><b>⚡ Activité récente</b></summary>
-  <br/>
-   <a href="https://github.com/Pimpuss"><img alt="Pimpuss's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Pimpuss&custom_title=Activite%20de%20Pimpuss&theme=react-dark" /></a>
-  <br/>
-</details>
-
 <br/>
 
 ## 📬 Contact 
